@@ -54,7 +54,7 @@ This project analyzes sales data using Power BI to help Tata leadership (CEO/CMO
      <img width="750" height="650" alt="Q4" src="https://github.com/user-attachments/assets/828dc9f3-9cda-4924-9981-2df1b6cb9285" />
 
 
-*(Replace the image file names above with your actual uploaded screenshot filenames for each visual!)*
+
 
 ---
 
