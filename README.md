@@ -51,7 +51,7 @@ This project analyzes sales data using Power BI to help Tata leadership (CEO/CMO
 
 **[CEO/CMO Video Presentation Script]**
 
-> Hello, I’m [Your Name]. This Power BI analysis supports Tata’s international expansion and sales strategy. I started by cleaning our dataset—removing returns, invalid prices, and incomplete customer records. For each executive question, I built an interactive dashboard focused on actionable business answers.
+> Hello, I’m Sharan P. This Power BI analysis supports Tata’s international expansion and sales strategy. I started by cleaning our dataset—removing returns, invalid prices, and incomplete customer records. For each executive question, I built an interactive dashboard focused on actionable business answers.
 >
 > 1. **Monthly Revenue Trends (2011):** Reveals seasonal patterns and peak months. Highest revenue in November points to key inventory periods.
 > 2. **Top Countries by Revenue:** Netherlands and EIRE offer biggest non-UK growth opportunities. Product breakdown shows where to adjust marketing and supply.
