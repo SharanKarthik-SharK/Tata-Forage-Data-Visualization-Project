@@ -27,6 +27,9 @@ This project analyzes sales data using Power BI to help Tata leadership (CEO/CMO
 - **Visual:** Line chart
 - **Purpose:** Shows sales trends by month for executive forecasting
 ![Q1_MonthlyRevenue.png](Q1_MonthlyRevenue.png)
+    <img width="1157" height="639" alt="Q1" src="https://github.com/user-attachments/assets/f295378f-e87e-467a-baec-d5e95a008c39" />
+
+
 
 ### 2. Top 10 Countries by Revenue – Product Breakdown (Excl. UK)
 - **Visual:** Stacked bar chart
@@ -64,14 +67,13 @@ This project analyzes sales data using Power BI to help Tata leadership (CEO/CMO
 
 ---
 
-## 📂 File Structure
 
 
-Tata-Forage-Data-Visualization-Project/
-├── README.md
-├── Tata_Forage_Project.pbix
-├── Q1_MonthlyRevenue.png
-├── Q2_Top10Countries.png
-├── Q3_Top10Customers.png
-├── Q4_DemandByCountry.png
-├── CEO_CMO_Presentation_Script.txt
+
+
+
+## 💼 What I Learned
+- Advanced data cleaning and filtering in Power BI
+- Executive dashboard design
+- Translating analytics to business action
+- Communicating data insights for leadership
