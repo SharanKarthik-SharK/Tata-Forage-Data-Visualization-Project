@@ -65,3 +65,13 @@ This project analyzes sales data using Power BI to help Tata leadership (CEO/CMO
 ---
 
 ## 📂 File Structure
+
+
+Tata-Forage-Data-Visualization-Project/
+├── README.md
+├── Tata_Forage_Project.pbix
+├── Q1_MonthlyRevenue.png
+├── Q2_Top10Countries.png
+├── Q3_Top10Customers.png
+├── Q4_DemandByCountry.png
+├── CEO_CMO_Presentation_Script.txt
