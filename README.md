@@ -27,7 +27,7 @@ This project analyzes sales data using Power BI to help Tata leadership (CEO/CMO
 - **Visual:** Line chart
 - **Purpose:** Shows sales trends by month for executive forecasting
 ![Q1_MonthlyRevenue.png](Q1_MonthlyRevenue.png)
-    <img width="1157" height="639" alt="Q1" src="https://github.com/user-attachments/assets/f295378f-e87e-467a-baec-d5e95a008c39" />
+    <img width="700" height="639" alt="Q1" src="https://github.com/user-attachments/assets/f295378f-e87e-467a-baec-d5e95a008c39" />
 
 
 
