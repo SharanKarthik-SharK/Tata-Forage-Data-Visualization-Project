@@ -35,16 +35,24 @@ This project analyzes sales data using Power BI to help Tata leadership (CEO/CMO
 - **Visual:** Stacked bar chart
 - **Purpose:** Reveals international markets for expansion
 ![Q2_Top10Countries.png](Q2_Top10Countries.png)
+   <img width="750" height="639" alt="Q2" src="https://github.com/user-attachments/assets/c67ad559-1f13-42c6-acd0-3a556d1c95b4" />
+
+
+
 
 ### 3. Top 10 Customers by Revenue
 - **Visual:** Column/bar chart
 - **Purpose:** Identifies core clients for loyalty programs
 ![Q3_Top10Customers.png](Q3_Top10Customers.png)
+    <img width="750" height="653" alt="Q3" src="https://github.com/user-attachments/assets/69058185-7128-4da9-a655-f1af15915fea" />
+
 
 ### 4. Demand by Country (Excluding UK)
 - **Visual:** Map chart
 - **Purpose:** Visualizes demand hotspots for strategic growth
 ![Q4_DemandByCountry.png](Q4_DemandByCountry.png)
+     <img width="750" height="650" alt="Q4" src="https://github.com/user-attachments/assets/828dc9f3-9cda-4924-9981-2df1b6cb9285" />
+
 
 *(Replace the image file names above with your actual uploaded screenshot filenames for each visual!)*
 
